@@ -1,0 +1,14 @@
+C:\Users\NgocSon\source\repos\SJF\SJF\bin\Debug\netcoreapp3.1\SJF.exe
+C:\Users\NgocSon\source\repos\SJF\SJF\bin\Debug\netcoreapp3.1\SJF.deps.json
+C:\Users\NgocSon\source\repos\SJF\SJF\bin\Debug\netcoreapp3.1\SJF.runtimeconfig.json
+C:\Users\NgocSon\source\repos\SJF\SJF\bin\Debug\netcoreapp3.1\SJF.runtimeconfig.dev.json
+C:\Users\NgocSon\source\repos\SJF\SJF\bin\Debug\netcoreapp3.1\SJF.dll
+C:\Users\NgocSon\source\repos\SJF\SJF\bin\Debug\netcoreapp3.1\SJF.pdb
+C:\Users\NgocSon\source\repos\SJF\SJF\obj\Debug\netcoreapp3.1\SJF.csproj.AssemblyReference.cache
+C:\Users\NgocSon\source\repos\SJF\SJF\obj\Debug\netcoreapp3.1\SJF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NgocSon\source\repos\SJF\SJF\obj\Debug\netcoreapp3.1\SJF.AssemblyInfoInputs.cache
+C:\Users\NgocSon\source\repos\SJF\SJF\obj\Debug\netcoreapp3.1\SJF.AssemblyInfo.cs
+C:\Users\NgocSon\source\repos\SJF\SJF\obj\Debug\netcoreapp3.1\SJF.csproj.CoreCompileInputs.cache
+C:\Users\NgocSon\source\repos\SJF\SJF\obj\Debug\netcoreapp3.1\SJF.dll
+C:\Users\NgocSon\source\repos\SJF\SJF\obj\Debug\netcoreapp3.1\SJF.pdb
+C:\Users\NgocSon\source\repos\SJF\SJF\obj\Debug\netcoreapp3.1\SJF.genruntimeconfig.cache
